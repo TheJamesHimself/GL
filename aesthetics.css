@@ -1,7 +1,10 @@
 body
 {
   font-family: Calibri;
-  background-color: #4C4C4B;
+  background-image: url('library.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   color: white;
 }
 a
@@ -10,8 +13,7 @@ a
 }
 #vessel
 {
-  background-color: #B78E80;
-  width: 900px;
+
   margin-left: auto;
   margin-right: auto;
 }
@@ -24,8 +26,8 @@ a
 #directory
 {
   background-color: #DFB2A9;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 600px;
+  margin-right: 600px
 }
 h2
 {
